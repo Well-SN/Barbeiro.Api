@@ -1,0 +1,12 @@
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\bin\Debug\net6.0\Barbearia.Shareable.deps.json
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\bin\Debug\net6.0\Barbearia.Shareable.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\bin\Debug\net6.0\ref\Barbearia.Shareable.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\bin\Debug\net6.0\Barbearia.Shareable.pdb
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.csproj.AssemblyReference.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.AssemblyInfoInputs.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.AssemblyInfo.cs
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.csproj.CoreCompileInputs.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\ref\Barbearia.Shareable.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.Shareable\obj\Debug\net6.0\Barbearia.Shareable.pdb

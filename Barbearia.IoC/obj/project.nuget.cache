@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yu3G2w0ZiI/phObRNBEln3bOr25mv5aRmsKrNgNCSi+K8A7t7T2lNiF07mTOrLmI/R3gW/hLZ+HNyVOorj01fg==",
+  "success": true,
+  "projectFilePath": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.IoC\\Barbearia.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wellington\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wellington\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wellington\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wellington\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

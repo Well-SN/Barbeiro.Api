@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Divino.OperationResult/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/OperationResult.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/OperationResult.dll": {}
+        }
+      },
+      "Barbearia.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Barbearia.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Barbearia.Data.dll": {}
+        }
+      },
+      "Barbearia.Shareable/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Barbearia.Shareable.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Barbearia.Shareable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divino.OperationResult/3.0.0": {
+      "sha512": "mxxUy3xV9tNrnNgCK29P+oE6ohSlPhg78hLDD9fmE1fDFMRRxOtOBLqjIa5O18/vw0qjLGjFTqnCN1P5bQxm2w==",
+      "type": "package",
+      "path": "divino.operationresult/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "divino.operationresult.3.0.0.nupkg.sha512",
+        "divino.operationresult.nuspec",
+        "lib/net5.0/OperationResult.dll",
+        "lib/net6.0/OperationResult.dll",
+        "lib/netstandard2.0/OperationResult.dll"
+      ]
+    },
+    "Barbearia.Data/1.0.0": {
+      "type": "project",
+      "path": "../Barbearia.Data/Barbearia.Data.csproj",
+      "msbuildProject": "../Barbearia.Data/Barbearia.Data.csproj"
+    },
+    "Barbearia.Shareable/1.0.0": {
+      "type": "project",
+      "path": "../Barbearia.Shareable/Barbearia.Shareable.csproj",
+      "msbuildProject": "../Barbearia.Shareable/Barbearia.Shareable.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Barbearia.Data >= 1.0.0",
+      "Barbearia.Shareable >= 1.0.0",
+      "Divino.OperationResult >= 3.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wellington\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Domain\\Barbearia.Domain.csproj",
+      "projectName": "Barbearia.Domain",
+      "projectPath": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Domain\\Barbearia.Domain.csproj",
+      "packagesPath": "C:\\Users\\Wellington\\.nuget\\packages\\",
+      "outputPath": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Wellington\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Data\\Barbearia.Data.csproj": {
+              "projectPath": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Data\\Barbearia.Data.csproj"
+            },
+            "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Shareable\\Barbearia.Shareable.csproj": {
+              "projectPath": "E:\\Programacao\\Manopeu\\Barbearia\\Barbearia\\Barbearia.Shareable\\Barbearia.Shareable.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Divino.OperationResult": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

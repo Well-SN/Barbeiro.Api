@@ -1,0 +1,12 @@
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\bin\Debug\net6.0\Barbearia.IoC.deps.json
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\bin\Debug\net6.0\Barbearia.IoC.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\bin\Debug\net6.0\ref\Barbearia.IoC.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\bin\Debug\net6.0\Barbearia.IoC.pdb
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.csproj.AssemblyReference.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.AssemblyInfoInputs.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.AssemblyInfo.cs
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.csproj.CoreCompileInputs.cache
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\ref\Barbearia.IoC.dll
+E:\Programacao\Manopeu\Barbearia\Barbearia\Barbearia.IoC\obj\Debug\net6.0\Barbearia.IoC.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f2490ee-7e75-45ff-be58-9cb2d4a56d59": {
+      "ProjectGuid": "3f2490ee-7e75-45ff-be58-9cb2d4a56d59",
+      "DisplayName": "Barbearia.Api",
+      "ColorIndex": 0
+    },
+    "9bf10679-ab38-4264-8663-5edd0747e590": {
+      "ProjectGuid": "9bf10679-ab38-4264-8663-5edd0747e590",
+      "DisplayName": "Barbearia.IoC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
